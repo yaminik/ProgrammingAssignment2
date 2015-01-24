@@ -1,7 +1,6 @@
 ## makeCacheMatrix and cacheSolve functions calculate the inverse of a matrix and cache it 
 ## so that it doesn't have to be recomputed everytime
  
-
 ## The below function makeCacheMatrix takes a matrix as input and creates a special cacheable matrix 
 ## and returns a list of functions to
 ## 1. set the value of matrix
